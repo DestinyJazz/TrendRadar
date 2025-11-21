@@ -1,26 +1,11 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 大疆
 DJI
 
 黑神话
 冯骥
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
@@ -60,8 +45,8 @@ ai
 人工智能
 
 自动驾驶
-
-机器人
+电动车
+hydrogen car
 
 芯片
 光刻机
@@ -85,6 +70,7 @@ Bitcoin
 
 Richtech Robotics
 RR
+机器人
 
 Datavault AI
 DVLT
@@ -92,3 +78,8 @@ DVLT
 苹果
 APPLE
 AAPL
+
+美股
+道琼斯
+标普500
+纳斯达克
